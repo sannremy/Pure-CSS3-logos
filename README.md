@@ -1,4 +1,4 @@
 Pure-CSS3-logos
 ===============
 
-Some logos in pure CSS3 (Ubisoft/Owlient logos)
+Ubisoft/Owlient logos live demo at: http://srchea.com/apps/css3-ubisoft-owlient-logos/
